@@ -1,1 +1,2 @@
 D:\VisualStudio\Project\Opengl1\build\Opengl1.exe
+D:\VisualStudio\Project\Opengl1\OpenGL\build\Opengl1.exe

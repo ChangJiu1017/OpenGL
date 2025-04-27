@@ -18,8 +18,19 @@
     <ClCompile Include="src\glad.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="src\main.cpp_org">
+      <Filter>源文件</Filter>
+    </ClCompile>
     <ClCompile Include="src\main.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="include\stb_image.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
